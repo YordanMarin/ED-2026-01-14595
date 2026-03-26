@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\bin\Debug\ListaSimple.exe.config
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\bin\Debug\ListaSimple.exe
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\bin\Debug\ListaSimple.pdb
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.exe
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.pdb
+C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.exe.config
