@@ -9,3 +9,14 @@ C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.csproj.
 C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.exe
 C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.pdb
 C:\Users\UPN\Desktop\ED-2026-14595\ED2\ListaSimple\obj\Debug\ListaSimple.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\bin\Debug\ListaSimple.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\bin\Debug\ListaSimple.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\bin\Debug\ListaSimple.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\ED-2026-01-14595\ListaSimple\obj\Debug\ListaSimple.pdb
