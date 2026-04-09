@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\bin\Debug\ListaCircular.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\bin\Debug\ListaCircular.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\bin\Debug\ListaCircular.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.Form1.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.Properties.Resources.resources
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.exe
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\ED-2026-01-14595\ListaCircular\obj\Debug\ListaCircular.exe.config

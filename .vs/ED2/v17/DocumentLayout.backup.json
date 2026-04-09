@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\listasimple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|solutionrelative:listasimple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\listasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|solutionrelative:listasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|c:\\users\\yordanm\\desktop\\nueva carpeta\\ed-2026-01-14595\\listasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|solutionrelative:listasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\listasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48CC4EF7-791F-4868-862B-C01E45D80C2C}|ListaSimple\\ListaSimple.csproj|solutionrelative:listasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F43C693-1BCA-43A9-9862-74965EBF75E9}|ListaDoble\\ListaDoble.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listadoble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F43C693-1BCA-43A9-9862-74965EBF75E9}|ListaDoble\\ListaDoble.csproj|solutionrelative:listadoble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaSimple\\Form1.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Form1.cs",
-              "RelativeToolTip": "ListaSimple\\Form1.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAtwC8AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaDoble\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDoble\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaDoble\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaDoble\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T18:26:45.89Z",
+              "WhenOpened": "2026-04-09T13:41:43.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaCircular\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
+              "RelativeToolTip": "ListaCircular\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:01:09.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Lista.cs",
-              "RelativeDocumentMoniker": "ListaSimple\\Lista.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Lista.cs",
-              "RelativeToolTip": "ListaSimple\\Lista.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAA/wFcAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Lista.cs",
+              "RelativeDocumentMoniker": "ListaCircular\\Lista.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Lista.cs",
+              "RelativeToolTip": "ListaCircular\\Lista.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwDIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T18:08:07.407Z",
+              "WhenOpened": "2026-04-09T12:44:55.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Nodo.cs",
-              "RelativeDocumentMoniker": "ListaSimple\\Nodo.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Nodo.cs",
-              "RelativeToolTip": "ListaSimple\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Nodo.cs",
+              "RelativeDocumentMoniker": "ListaCircular\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Nodo.cs",
+              "RelativeToolTip": "ListaCircular\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T18:03:27.697Z"
+              "WhenOpened": "2026-04-09T12:41:52.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaSimple\\Form1.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaSimple\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ListaSimple\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaCircular\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaCircular\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T17:52:42.341Z",
+              "WhenOpened": "2026-04-09T12:25:13.522Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
