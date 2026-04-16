@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F43C693-1BCA-43A9-9862-74965EBF75E9}|ListaDoble\\ListaDoble.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listadoble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F43C693-1BCA-43A9-9862-74965EBF75E9}|ListaDoble\\ListaDoble.csproj|solutionrelative:listadoble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-2026-01-14595\\listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF1115D-43A6-477F-BF2B-B62933E2F458}|ListaCircular\\ListaCircular.csproj|solutionrelative:listacircular\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaDoble\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaDoble\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaDoble\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ListaDoble\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T13:41:43.764Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaCircular\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
-              "RelativeToolTip": "ListaCircular\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwBMAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
+              "RelativeToolTip": "ListaDobleAnalisis\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwDYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T13:01:09.315Z",
+              "WhenOpened": "2026-04-16T13:07:12.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Lista.cs",
-              "RelativeDocumentMoniker": "ListaCircular\\Lista.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Lista.cs",
-              "RelativeToolTip": "ListaCircular\\Lista.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAIAwwDIAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Lista.cs",
+              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Lista.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Lista.cs",
+              "RelativeToolTip": "ListaDobleAnalisis\\Lista.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:44:55.322Z",
+              "WhenOpened": "2026-04-16T12:41:32.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Nodo.cs",
-              "RelativeDocumentMoniker": "ListaCircular\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Nodo.cs",
-              "RelativeToolTip": "ListaCircular\\Nodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Nodo.cs",
+              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Nodo.cs",
+              "RelativeToolTip": "ListaDobleAnalisis\\Nodo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:41:52.922Z",
+              "WhenOpened": "2026-04-16T12:41:22.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaCircular\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-2026-01-14595\\ListaCircular\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ListaCircular\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaDobleAnalisis\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:25:13.522Z",
+              "WhenOpened": "2026-04-16T12:25:48.796Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

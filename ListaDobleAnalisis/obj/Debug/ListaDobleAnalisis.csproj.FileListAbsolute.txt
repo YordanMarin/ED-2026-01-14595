@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\bin\Debug\ListaDobleAnalisis.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\bin\Debug\ListaDobleAnalisis.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\bin\Debug\ListaDobleAnalisis.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ListaDobleAnalisis\obj\Debug\ListaDobleAnalisis.exe.config
