@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\pila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|solutionrelative:pila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\pila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|solutionrelative:pila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\pila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|solutionrelative:pila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\listadobleanalisis\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293A5408-F4B2-4F3E-A748-00E585C11725}|ListaDobleAnalisis\\ListaDobleAnalisis.csproj|solutionrelative:listadobleanalisis\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\pila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|solutionrelative:pila\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
-              "RelativeToolTip": "ListaDobleAnalisis\\Form1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAApwDYAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Form1.cs",
+              "RelativeDocumentMoniker": "Pila\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Form1.cs",
+              "RelativeToolTip": "Pila\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:07:12.964Z",
+              "WhenOpened": "2026-04-23T13:15:07.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Lista.cs",
-              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Lista.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Lista.cs",
-              "RelativeToolTip": "ListaDobleAnalisis\\Lista.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila\\Pila.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Pila.cs",
+              "RelativeToolTip": "Pila\\Pila.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:41:32.037Z",
+              "WhenOpened": "2026-04-23T13:04:01.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Nodo.cs",
-              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Nodo.cs",
-              "RelativeToolTip": "ListaDobleAnalisis\\Nodo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Nodo.cs",
+              "RelativeDocumentMoniker": "Pila\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Nodo.cs",
+              "RelativeToolTip": "Pila\\Nodo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:41:22.461Z",
+              "WhenOpened": "2026-04-23T13:03:53.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs",
-              "RelativeDocumentMoniker": "ListaDobleAnalisis\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ListaDobleAnalisis\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ListaDobleAnalisis\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Form1.cs",
+              "RelativeDocumentMoniker": "Pila\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Pila\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pila\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:25:48.796Z",
+              "WhenOpened": "2026-04-23T12:57:43.654Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

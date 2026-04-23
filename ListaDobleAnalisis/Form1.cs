@@ -62,5 +62,16 @@ namespace ListaDobleAnalisis {
 
             } else MessageBox.Show("Selecione un nombre a modificar");
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e) {
+            if (listView1.SelectedItems.Count > 0) {
+                string selec = listView1.SelectedItems[0].Text;
+
+                l.eliminar(selec);
+                listView1.Items.Clear();
+                l.mostrar(listView1);
+
+            } else MessageBox.Show("Selecione un nombre a eliminar");
+        }
     }
 }

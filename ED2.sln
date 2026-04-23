@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDoble", "ListaDoble\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDobleAnalisis", "ListaDobleAnalisis\ListaDobleAnalisis.csproj", "{293A5408-F4B2-4F3E-A748-00E585C11725}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pila", "Pila\Pila.csproj", "{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{293A5408-F4B2-4F3E-A748-00E585C11725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293A5408-F4B2-4F3E-A748-00E585C11725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293A5408-F4B2-4F3E-A748-00E585C11725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
