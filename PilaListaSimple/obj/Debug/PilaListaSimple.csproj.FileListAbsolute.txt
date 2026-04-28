@@ -1,0 +1,11 @@
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\bin\Debug\PilaListaSimple.exe.config
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\bin\Debug\PilaListaSimple.exe
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\bin\Debug\PilaListaSimple.pdb
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.Form1.resources
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.Properties.Resources.resources
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.csproj.GenerateResource.cache
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.exe
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.pdb
+C:\Users\YordanM\Desktop\ED-2026-01-14595\PilaListaSimple\obj\Debug\PilaListaSimple.exe.config
