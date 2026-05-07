@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|c:\\users\\yordanm\\desktop\\ed-2026-01-14595\\pilalistasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EED4312-30F9-4C5D-ACFE-12B13FBD6795}|PilaListaSimple\\PilaListaSimple.csproj|solutionrelative:pilalistasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\pila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5989561D-2FD6-41FA-B289-B54B5D2DCC6F}|Pila\\Pila.csproj|solutionrelative:pila\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Form1.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Form1.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Form1.cs",
-              "RelativeToolTip": "PilaListaSimple\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:52:36.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conversion.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Conversion.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Conversion.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Conversion.cs",
-              "RelativeToolTip": "PilaListaSimple\\Conversion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
+              "RelativeDocumentMoniker": "Cola\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
+              "RelativeToolTip": "Cola\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:17:26.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Lista.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Lista.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Lista.cs",
-              "RelativeToolTip": "PilaListaSimple\\Lista.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:14:05.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pila.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Pila.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Pila.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Pila.cs",
-              "RelativeToolTip": "PilaListaSimple\\Pila.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:13:58.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Nodo.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Nodo.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Nodo.cs",
-              "RelativeToolTip": "PilaListaSimple\\Nodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:13:50.972Z",
+              "WhenOpened": "2026-05-07T12:55:31.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Form1.cs",
-              "RelativeDocumentMoniker": "PilaListaSimple\\Form1.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\PilaListaSimple\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PilaListaSimple\\Form1.cs [Dise\u00F1o]",
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola\\Cola.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Cola.cs",
+              "RelativeToolTip": "Cola\\Cola.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:11:05.525Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-05-07T12:42:46.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pila.cs",
-              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\Pila\\Pila.cs",
-              "RelativeDocumentMoniker": "Pila\\Pila.cs",
-              "ToolTip": "C:\\Users\\YordanM\\Desktop\\ED-2026-01-14595\\Pila\\Pila.cs",
-              "RelativeToolTip": "Pila\\Pila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Nodo.cs",
+              "RelativeDocumentMoniker": "Cola\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Nodo.cs",
+              "RelativeToolTip": "Cola\\Nodo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:04:01.38Z",
+              "WhenOpened": "2026-05-07T12:42:37.12Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
+              "RelativeDocumentMoniker": "Cola\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cola\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:28:39.224Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\bin\Debug\Cola.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\bin\Debug\Cola.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\bin\Debug\Cola.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Cola\obj\Debug\Cola.exe.config
