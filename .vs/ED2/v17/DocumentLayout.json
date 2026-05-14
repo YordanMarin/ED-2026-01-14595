@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinario\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|solutionrelative:arbolbinario\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|solutionrelative:arbolbinario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|solutionrelative:arbolbinario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\cola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}|Cola\\Cola.csproj|solutionrelative:cola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinario\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}|ArbolBinario\\ArbolBinario.csproj|solutionrelative:arbolbinario\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,51 +32,51 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
-              "RelativeDocumentMoniker": "Cola\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
-              "RelativeToolTip": "Cola\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Form1.cs",
+              "RelativeDocumentMoniker": "ArbolBinario\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Form1.cs",
+              "RelativeToolTip": "ArbolBinario\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAvwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:55:31.073Z",
+              "WhenOpened": "2026-05-14T13:05:38.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cola.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Cola.cs",
-              "RelativeDocumentMoniker": "Cola\\Cola.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Cola.cs",
-              "RelativeToolTip": "Cola\\Cola.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwEYAAAAJAAAAAAAAAA==",
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Arbol.cs",
+              "RelativeDocumentMoniker": "ArbolBinario\\Arbol.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Arbol.cs",
+              "RelativeToolTip": "ArbolBinario\\Arbol.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:42:46.44Z",
+              "WhenOpened": "2026-05-14T12:38:48.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Nodo.cs",
-              "RelativeDocumentMoniker": "Cola\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Nodo.cs",
-              "RelativeToolTip": "Cola\\Nodo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Nodo.cs",
+              "RelativeDocumentMoniker": "ArbolBinario\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Nodo.cs",
+              "RelativeToolTip": "ArbolBinario\\Nodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:42:37.12Z",
+              "WhenOpened": "2026-05-14T12:38:41.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs",
-              "RelativeDocumentMoniker": "Cola\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Cola\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cola\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Form1.cs",
+              "RelativeDocumentMoniker": "ArbolBinario\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ArbolBinario\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:28:39.224Z",
+              "WhenOpened": "2026-05-14T12:36:20.809Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinario\obj\Debug\ArbolBinario.exe.config

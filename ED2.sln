@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaListaSimple", "PilaList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cola", "Cola\Cola.csproj", "{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinario", "ArbolBinario\ArbolBinario.csproj", "{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D233C2CD-F9DE-46D7-8F78-8DADE04A9E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EC9BD8-01D4-45F7-989F-4BDEC85B6E60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
