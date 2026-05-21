@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.exe.config
