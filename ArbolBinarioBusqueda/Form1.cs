@@ -38,5 +38,26 @@ namespace ArbolBinarioBusqueda {
             a.Inorden(raiz,textIn);
             a.Postorden(raiz,textPost);
         }
+
+        private void btnBuscar_Click(object sender, EventArgs e) {
+            Nodo buscar = a.Buscar(raiz, int.Parse(textNumero.Text));
+
+            if (buscar != null) {
+                MessageBox.Show($"El número {buscar.numero} se encuentra en el árbol");
+            } else MessageBox.Show("El número no existe en el árbol");
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e) {
+            Nodo buscar = a.Buscar(raiz, int.Parse(textNumero.Text));
+
+            if (buscar != null) {
+
+                raiz = a.Eliminar(raiz, int.Parse(textNumero.Text));
+                treeView1.Nodes.Clear();
+                a.mostrar(raiz, treeView1,null);
+                textNumero.Clear();
+
+            } else MessageBox.Show("No se puede eliminar. El número no existe en el árbol");
+        }
     }
 }
