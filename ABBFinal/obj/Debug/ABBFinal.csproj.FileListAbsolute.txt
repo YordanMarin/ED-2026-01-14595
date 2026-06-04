@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\bin\Debug\ABBFinal.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\bin\Debug\ABBFinal.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\bin\Debug\ABBFinal.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\ABBFinal\obj\Debug\ABBFinal.exe.config

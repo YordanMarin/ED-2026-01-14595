@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinario", "ArbolBinari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinarioBusqueda", "ArbolBinarioBusqueda\ArbolBinarioBusqueda.csproj", "{FD9CB34D-5473-4BA5-9860-23D207FED200}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABBFinal", "ABBFinal\ABBFinal.csproj", "{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FD9CB34D-5473-4BA5-9860-23D207FED200}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9CB34D-5473-4BA5-9860-23D207FED200}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9CB34D-5473-4BA5-9860-23D207FED200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

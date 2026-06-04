@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinariobusqueda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|solutionrelative:arbolbinariobusqueda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\arbolbinariobusqueda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|solutionrelative:arbolbinariobusqueda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\arbolbinariobusqueda\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD9CB34D-5473-4BA5-9860-23D207FED200}|ArbolBinarioBusqueda\\ArbolBinarioBusqueda.csproj|solutionrelative:arbolbinariobusqueda\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Arbol.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Arbol.cs",
-              "RelativeDocumentMoniker": "ArbolBinarioBusqueda\\Arbol.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Arbol.cs",
-              "RelativeToolTip": "ArbolBinarioBusqueda\\Arbol.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:36:37.417Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Form1.cs",
-              "RelativeDocumentMoniker": "ArbolBinarioBusqueda\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Form1.cs",
-              "RelativeToolTip": "ArbolBinarioBusqueda\\Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwDQAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "ABBFinal\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
+              "RelativeToolTip": "ABBFinal\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:42:43.005Z",
+              "WhenOpened": "2026-06-04T13:01:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Nodo.cs",
+              "RelativeDocumentMoniker": "ABBFinal\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Nodo.cs",
+              "RelativeToolTip": "ABBFinal\\Nodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:38:03.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Arbol.cs",
+              "RelativeDocumentMoniker": "ABBFinal\\Arbol.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Arbol.cs",
+              "RelativeToolTip": "ABBFinal\\Arbol.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:37:56.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Form1.cs",
-              "RelativeDocumentMoniker": "ArbolBinarioBusqueda\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ArbolBinarioBusqueda\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ArbolBinarioBusqueda\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "ABBFinal\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABBFinal\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:30:34.874Z",
+              "WhenOpened": "2026-06-04T12:32:33.188Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
