@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\grafo1\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|solutionrelative:grafo1\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\grafo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|solutionrelative:grafo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\abbfinal\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC33009-7E6F-4DB7-90F0-E30C04D710B8}|ABBFinal\\ABBFinal.csproj|solutionrelative:abbfinal\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|c:\\users\\upn\\desktop\\ed-2026-01-14595\\grafo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06CA8C8B-DAD8-46E1-BAC5-BCF3ED6DF3D4}|Grafo1\\Grafo1.csproj|solutionrelative:grafo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "ABBFinal\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
-              "RelativeToolTip": "ABBFinal\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwBcAAAApAAAAAAAAAA==",
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Grafo.cs",
+              "RelativeDocumentMoniker": "Grafo1\\Grafo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Grafo.cs",
+              "RelativeToolTip": "Grafo1\\Grafo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwDAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T13:01:42.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Nodo.cs",
-              "RelativeDocumentMoniker": "ABBFinal\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Nodo.cs",
-              "RelativeToolTip": "ABBFinal\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T12:38:03.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Arbol.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Arbol.cs",
-              "RelativeDocumentMoniker": "ABBFinal\\Arbol.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Arbol.cs",
-              "RelativeToolTip": "ABBFinal\\Arbol.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T12:37:56.509Z",
+              "WhenOpened": "2026-06-11T12:58:32.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "ABBFinal\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\ABBFinal\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ABBFinal\\Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Grafo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Form1.cs",
+              "RelativeToolTip": "Grafo1\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T12:32:33.188Z",
+              "WhenOpened": "2026-06-11T12:34:28.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Grafo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED-2026-01-14595\\Grafo1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Grafo1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:32:26.334Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

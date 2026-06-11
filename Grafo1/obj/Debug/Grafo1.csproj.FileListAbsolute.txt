@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\bin\Debug\Grafo1.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\bin\Debug\Grafo1.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\bin\Debug\Grafo1.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo1\obj\Debug\Grafo1.exe.config
