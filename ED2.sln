@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo1", "Grafo1\Grafo1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo2", "Grafo2\Grafo2.csproj", "{C681E793-DC20-4DDD-8115-62C10C0385C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo3", "Grafo3\Grafo3.csproj", "{B3FDB709-0E58-4B58-A9D7-2F5563F73737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C681E793-DC20-4DDD-8115-62C10C0385C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C681E793-DC20-4DDD-8115-62C10C0385C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C681E793-DC20-4DDD-8115-62C10C0385C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FDB709-0E58-4B58-A9D7-2F5563F73737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FDB709-0E58-4B58-A9D7-2F5563F73737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FDB709-0E58-4B58-A9D7-2F5563F73737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FDB709-0E58-4B58-A9D7-2F5563F73737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

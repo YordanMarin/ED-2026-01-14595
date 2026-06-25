@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\bin\Debug\Grafo3.exe.config
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\bin\Debug\Grafo3.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\bin\Debug\Grafo3.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.Form1.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.exe
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.pdb
+C:\Users\UPN\Desktop\ED-2026-01-14595\Grafo3\obj\Debug\Grafo3.exe.config
